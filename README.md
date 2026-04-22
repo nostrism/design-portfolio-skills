@@ -18,7 +18,7 @@ Writing a good design portfolio is hard. Most designers either write "water" (va
 To add this skill to your environment, run:
 
 ```bash
-npx skills add [YOUR_GITHUB_REPO_URL] --skill design-portfolio-builder
+npx skills add https://github.com/nostrism/design-portfolio-skills --skill design-portfolio-builder
 ```
 
 ## ⌨️ Available Commands
